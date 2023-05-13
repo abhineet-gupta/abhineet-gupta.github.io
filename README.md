@@ -1,2 +1,2 @@
 # abhineet-gupta.github.io
-My webpage
+My simple webpage that would redirect to abhineetgupta.com
