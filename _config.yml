@@ -22,7 +22,7 @@ email: abhineet.gupta@nlr.gov
 description: "Personal website"
   #twitter_username: username
   #github_username: username
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "catppuccin_mocha"
 search: true
 
 # Build settings
